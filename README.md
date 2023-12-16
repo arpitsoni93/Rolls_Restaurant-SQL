@@ -1,7 +1,7 @@
 # Rolls_Restaurant-SQL
 This SQL Script has Various Questions Answered relating to Rolls_Restaurant
-</n
-Q.1 how many rolls were ordered? </n
+</b>
+Q.1 how many rolls were ordered?</n>
 Q.2 how many unique customer orders were placed?
 Q.3 how many successful orders were delivered by the driver?
 Q.4 how many of each type of roll was delivered?
